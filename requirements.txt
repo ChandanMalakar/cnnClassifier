@@ -1,0 +1,14 @@
+tensorflow
+pandas
+notebook
+numpy
+matplotlib
+seaborn
+python-box==6.0.2 # for accessing dict as objects
+pyYAML # for parsing and writing YAML config files for a project
+tqdm # for showing display progress
+ensure==1.0.2 # for validating data structures and types
+joblib # for exporting machine learning models
+type-PyYAML # for error checking in IDEs and correcting it
+scipy
+-e . # it will look for setup.py and install it
