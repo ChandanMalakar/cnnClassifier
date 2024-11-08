@@ -1,0 +1,5 @@
+
+# just putting random parameters here, until I start model definition
+# for preventing the program to throw error "params.yaml is empty"
+
+key : val

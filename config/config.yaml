@@ -1,0 +1,11 @@
+# Data Ingestion Space
+
+artifacts_root: artifacts
+
+data_ingestion:
+  root_dir: artifacts/data_ingestion
+  source_URL: https://github.com/askchandan/BranchingData/raw/f06e8fd9affac46c62a2cbcefebfbc2dc7597f98/cat-dog-data.zip
+  local_data_file: artifacts/data_ingestion/data.zip
+  unzip_dir: artifacts/data_ingestion
+
+  
