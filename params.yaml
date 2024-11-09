@@ -2,4 +2,13 @@
 # just putting random parameters here, until I start model definition
 # for preventing the program to throw error "params.yaml is empty"
 
-key : val
+# KEY: VALUE
+
+AUGMENETATION: True
+IMAGE_SIZE: [224, 224, 3] # vg16 model recommended image shape
+BATCH_SIZE: 16
+INCLUDE_TOP: False
+EPOCHS: 1
+CLASSES: 2 # only 2 classes dog & cat
+WEIGHTS: imagenet
+LEARNING_RATE: 0.01
